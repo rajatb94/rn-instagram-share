@@ -3,9 +3,11 @@ Instagram Media (Video, Image) sharing module (Currently only for Android. iOS s
 
 ## Installation
 ***Enter it in to the terminal being in the project directory.***
+
 ```npm install rn-instagram-share --save```
 
 **Now link it using react-native tool**
+
 ```react-native link```
 
 ## Importing
