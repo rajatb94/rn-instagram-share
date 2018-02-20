@@ -1,6 +1,6 @@
 {
   "name": "rn-instagram-share",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A library that serves Instagram Share functionality (only for Android. iOS support would be launched soon)",
   "main": "index.js",
   "scripts": {
