@@ -16,6 +16,7 @@ var InstagramShare = require("rn-instagram-share")
 
 ## share(Type, FilePath)
 You can share Image/Video
+
 **Type**: **"video/\*"** for all video formats & **"image/\*"** for all image formats.
 **FilePath**: Absoulte path of the media file stored in your phone.
 
