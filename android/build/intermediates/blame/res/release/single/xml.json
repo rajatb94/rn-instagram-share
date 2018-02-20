@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rajat/workspace/travelshelf/iostravelshelf/node_modules/react-native-sharing-winstagram/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/rajat/workspace/travelshelf/iostravelshelf/node_modules/react-native-sharing-winstagram/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/rajat/workspace/travelshelf/iostravelshelf/node_modules/rn-instagram-share/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/rajat/workspace/travelshelf/iostravelshelf/node_modules/rn-instagram-share/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/res/xml/preferences.xml"
+    }
+]
