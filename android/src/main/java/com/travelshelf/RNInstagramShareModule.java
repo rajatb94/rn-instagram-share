@@ -30,7 +30,7 @@ public class RNInstagramShareModule extends ReactContextBaseJavaModule {
     return "InstagramShare";
   }
   @ReactMethod
-  private void createInstagramIntent(String type, String mediaPath){
+  private void share(String type, String mediaPath){
 
     // Create the new Intent using the 'Send' action.
         Intent share = new Intent(Intent.ACTION_SEND);
