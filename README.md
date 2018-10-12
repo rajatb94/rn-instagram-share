@@ -12,7 +12,7 @@ Instagram Media (Video, Image) sharing module (Currently only for Android. iOS s
 
 ## Importing
 ```js
-var InstagramShare = require("rn-instagram-share");
+import InstagramShare from "rn-instagram-share";
 ```
 
 
@@ -25,7 +25,6 @@ You can share Image/Video
 ### example:
 
 ```js
-var InstagramShare = require("rn-instagram-share");
 InstagramShare.share("video/*", "/path/to/file/my_video.mp4");
 ```
 
